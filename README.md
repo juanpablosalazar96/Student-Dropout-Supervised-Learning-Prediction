@@ -20,6 +20,6 @@ The objective is to develop a predictive model that identifies students at risk 
 
  - Feature Engineering & Data Quality Analysis: Identified and added impactful features to enhance model accuracy and interpretability.
 
- - Model Evaluation & Regularization: Applied metrics such as AUC and accuracy; used L1/L2 regularization to prevent overfitting.
+ - Model Evaluation & Tuning: Applied metrics such as AUC and accuracy; used L1/L2 regularization to prevent overfitting.
 
  - Critical Thinking & Strategic Insight: Assessed the trade-offs between model complexity and performance, and proposed practical improvements for future iterations.
