@@ -4,6 +4,7 @@
 This project leverages supervised learning techniques to address student dropout, a persistent challenge in the education sector. High dropout rates can negatively affect student outcomes, institutional finances, and reputation. The project focuses on an education provider that supports international students through personalized learning, academic preparation programs, and digital learning tools. By identifying students at risk of dropping out, the goal is to enable early interventions and promote long-term student success.
 
 **Objective**
+
 The objective is to develop a predictive model that identifies students at risk of dropping out using supervised machine learning algorithms, including XGBoost and neural networks. The project encompasses data exploration, preprocessing, feature engineering, model development, and evaluation. Special attention is given to identifying key predictors and optimizing model performance to enable actionable insights and proactive student support strategies.
 
 **Key Outcomes**
